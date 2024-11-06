@@ -1,3 +1,7 @@
-p {
-    color: blueviolet;
+body {
+    font-family: "Inter", sans-serif;
+}
+
+h1 {
+    font-family: "Macondo Swash Caps", cursive;
 }
